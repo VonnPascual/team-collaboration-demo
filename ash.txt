@@ -1,2 +1,1 @@
-Hello, my name is Ash, and I’m someone who dreams of becoming a game developer. Ever since I discovered how games can transport people into entirely new worlds, I’ve been fascinated by the idea of creating those experiences myself.
-I see game development as more than just coding—it’s about storytelling, design, and imagination coming together to build something players can truly live through.
+Hello, my name is Ash, and I’m someone who dreams of becoming a game developer. I am also one of the front end and technical writer of the group.
